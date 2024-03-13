@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\Delegates-practice\Delegates-practice\bin\Debug\net6.0\Delegates-practice.exe
+C:\Users\Hp\Desktop\C#\Delegates-practice\Delegates-practice\bin\Debug\net6.0\Delegates-practice.deps.json
+C:\Users\Hp\Desktop\C#\Delegates-practice\Delegates-practice\bin\Debug\net6.0\Delegates-practice.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\Delegates-practice\Delegates-practice\bin\Debug\net6.0\Delegates-practice.dll
+C:\Users\Hp\Desktop\C#\Delegates-practice\Delegates-practice\bin\Debug\net6.0\Delegates-practice.pdb
+C:\Users\Hp\Desktop\C#\Delegates-practice\Delegates-practice\obj\Debug\net6.0\Delegates-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\Delegates-practice\Delegates-practice\obj\Debug\net6.0\Delegates-practice.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\Delegates-practice\Delegates-practice\obj\Debug\net6.0\Delegates-practice.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\Delegates-practice\Delegates-practice\obj\Debug\net6.0\Delegates-practice.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Delegates-practice\Delegates-practice\obj\Debug\net6.0\Delegates-practice.dll
+C:\Users\Hp\Desktop\C#\Delegates-practice\Delegates-practice\obj\Debug\net6.0\refint\Delegates-practice.dll
+C:\Users\Hp\Desktop\C#\Delegates-practice\Delegates-practice\obj\Debug\net6.0\Delegates-practice.pdb
+C:\Users\Hp\Desktop\C#\Delegates-practice\Delegates-practice\obj\Debug\net6.0\Delegates-practice.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\Delegates-practice\Delegates-practice\obj\Debug\net6.0\ref\Delegates-practice.dll

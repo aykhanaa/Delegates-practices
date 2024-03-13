@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\Delegate-homework\Delegate-homework\bin\Debug\net6.0\Delegate-homework.exe
+C:\Users\Hp\Desktop\C#\Delegate-homework\Delegate-homework\bin\Debug\net6.0\Delegate-homework.deps.json
+C:\Users\Hp\Desktop\C#\Delegate-homework\Delegate-homework\bin\Debug\net6.0\Delegate-homework.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\Delegate-homework\Delegate-homework\bin\Debug\net6.0\Delegate-homework.dll
+C:\Users\Hp\Desktop\C#\Delegate-homework\Delegate-homework\bin\Debug\net6.0\Delegate-homework.pdb
+C:\Users\Hp\Desktop\C#\Delegate-homework\Delegate-homework\obj\Debug\net6.0\Delegate-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\Delegate-homework\Delegate-homework\obj\Debug\net6.0\Delegate-homework.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\Delegate-homework\Delegate-homework\obj\Debug\net6.0\Delegate-homework.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\Delegate-homework\Delegate-homework\obj\Debug\net6.0\Delegate-homework.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Delegate-homework\Delegate-homework\obj\Debug\net6.0\Delegate-homework.dll
+C:\Users\Hp\Desktop\C#\Delegate-homework\Delegate-homework\obj\Debug\net6.0\refint\Delegate-homework.dll
+C:\Users\Hp\Desktop\C#\Delegate-homework\Delegate-homework\obj\Debug\net6.0\Delegate-homework.pdb
+C:\Users\Hp\Desktop\C#\Delegate-homework\Delegate-homework\obj\Debug\net6.0\Delegate-homework.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\Delegate-homework\Delegate-homework\obj\Debug\net6.0\ref\Delegate-homework.dll
